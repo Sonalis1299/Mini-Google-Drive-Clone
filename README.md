@@ -17,7 +17,7 @@ This project allows users to **register, upload, and manage files** similar to G
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express  
 - **Frontend:** EJS, TailwindCSS, Flowbite  
-- **Database:** (MongoDB / Any DB you connect later)  
+- **Database:** (MongoDB / Firebase) 
 - **Others:** Multer (for file uploads)  
 
 ---
